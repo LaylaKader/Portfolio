@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Undergraduate Teaching Assistant (UTA)",
+    "organisation": "Department of Data Science & CSE, United International University",
+    "startDate": "2023",
+    "endDate": "2024",
+    "experiences": [
+      "Assisted in teaching Introduction to Computer Systems, Structured Programming Language, and Data Structures & Algorithms I",
+      "Graded assignments, quizzes, and exams; maintained academic records",
+      "Conducted student mentoring, academic advising, and problem-solving sessions"
+      
+    ],
+    "imageSrc": "history/uiu.svg"
+  }
+]

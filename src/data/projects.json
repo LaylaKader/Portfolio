@@ -1,0 +1,20 @@
+[
+  {
+    "title": "SuperUniverse",
+    "imageSrc": "projects/User-profile.png",
+    "description": "A dynamic superhero-themed platform built with HTML, CSS, JavaScript, PHP, and MySQL. Users can explore hero profiles, unlock cards, and enjoy exciting built-in mini games.",
+    "source": "https://github.com/LaylaKader/SuperUniverse"
+  },
+  {
+    "title": "UIUSAT",
+    "imageSrc": "projects/User-profile.png",
+    "description": "A comprehensive Students' Activity Tracker developed with HTML, CSS, JavaScript, PHP, and MySQL. It manages students’ projects, CGPA, skills, event participation records, and other academic achievements.",
+    "source": "https://github.com/LaylaKader/UIUSAT"
+  },
+  {
+    "title": "UniVerseHub",
+    "imageSrc": "projects/User-profile.png",
+    "description": "An AI-powered academic support application using the MERN stack. It offers organized study resources, peer video sessions,group study session, smart FAQs, and AI tutors to simplify academic life.",
+    "source": "https://github.com/LaylaKader/UniVerseHub"
+  }
+]

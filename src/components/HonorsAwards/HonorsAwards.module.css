@@ -1,0 +1,63 @@
+.container {
+  margin: 50px 10%;
+  color: var(--color-text);
+}
+
+.title {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 30px;
+  font-family: var(--font-roboto);
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.card {
+  display: flex;
+  align-items: flex-start;
+  padding: 25px;
+  background-color: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+  gap: 20px;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  background-color: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 0 15px rgba(0, 170, 255, 0.4);
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+
+.textContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.awardTitle {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.date {
+  font-size: 16px;
+  color: #bbb;
+  margin-bottom: 12px;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.5;
+  white-space: pre-line;
+}
